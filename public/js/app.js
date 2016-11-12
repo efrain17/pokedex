@@ -21,7 +21,7 @@
       })
       .when('/pokemon/:name', {
         templateUrl: 'views/pokemon.html',
-        controller: 'PokemonController, TabsController'
+        controller: 'PokemonController'
       })
       .otherwise({
         redirectTo: '/'
