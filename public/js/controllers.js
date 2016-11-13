@@ -101,8 +101,4 @@
         return input.slice(start);}
   });
 
-
-
-
-
 })(_);
