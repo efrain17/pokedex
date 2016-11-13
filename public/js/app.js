@@ -2,6 +2,7 @@
 
   var app = angular.module('pokedex', [
     'ngRoute',
+    'ui.bootstrap',
     'pokedex.controllers',
     'pokedex.directives',
     'pokedex.filters',

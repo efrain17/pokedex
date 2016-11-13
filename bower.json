@@ -1,0 +1,20 @@
+{
+  "name": "bower",
+  "description": "A Pokedex built in Angular.js",
+  "main": "",
+  "authors": [
+    "Julian Duque <julianduquej@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/proyectos-mejorandola/pokedex",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-md5": "^0.1.10"
+  }
+}
